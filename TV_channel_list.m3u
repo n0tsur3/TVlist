@@ -34,7 +34,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17
 http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
-http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225659/index.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
@@ -61,8 +61,6 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225696/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225691/index.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225692/index.m3u8
-#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实
-http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225700/index.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
@@ -117,22 +115,24 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225672/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",明星大片
 http://39.134.115.163:8080/PLTV/88888910/224/3221225716/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",东方影视
+#EXTINF:-1 tvg-id="" tvg-name="东方影视" tvg-logo="" group-title="上海",东方影视
 http://140.207.241.3:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="上海纪实" tvg-logo="" group-title="上海",上海纪实
+http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="上海外语频道" tvg-logo="" group-title="上海",上海外语频道
+http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="生活时尚" tvg-logo="" group-title="上海",生活时尚
+http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="第一财经" tvg-logo="" group-title="上海",第一财经
+http://183.207.255.188/live/program/live/dycjhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="上海都市" tvg-logo="" group-title="上海",上海都市
+http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="上海哈哈炫动" tvg-logo="" group-title="上海",上海哈哈炫动
+http://140.207.241.3:8080/live/program/live/hhxdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",三立iNews
 http://seb.sason.top/sc/slinews_fhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",三立Live新闻
 http://seb.sason.top/sc/sllive_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",上海外语频道
-http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",生活时尚
-http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",第一财经
-http://183.207.255.188/live/program/live/dycjhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",上海纪实
-http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",上海都市
-http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",东森新闻
 http://seb.sason.top/sc/dsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",东森经济新闻
@@ -155,9 +155,9 @@ http://live.mastvnet.com:800/4rlff1m/live.m3u8
 http://61.244.22.4/ch3/ch3.live/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",澳视澳门
 http://61.244.22.4/ch1/ch1.live/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",美国新闻CBS New2
-https://www.cbsnews.com/common/video/dai_prod.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",TVB J1
 https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",美国新闻CBS New2
+https://www.cbsnews.com/common/video/dai_prod.m3u8
